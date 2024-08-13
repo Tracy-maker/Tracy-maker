@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Yingxin Zhang 👋
 
-<!--
-**Tracy-maker/Tracy-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [GitHub](https://github.com/Tracy-maker) | 📧 [Email](mailto:ydlvns2020@outlook.com) | 💼 [LinkedIn](https://www.linkedin.com/in/yingxin-zhang-ba1028212/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+<table>
+<tr>
+<td>
+I'm a passionate software developer with a knack for transforming complex requirements into efficient, high-performance web applications. My expertise spans TypeScript (React), AWS, and Node.js, where I focus on developing secure and scalable solutions that thrive in diverse environments.
+With a solid background in JavaScript frameworks, CI/CD pipelines, Test-Driven Development (TDD), and Cloud technologies, I bring a comprehensive approach to both front-end and back-end development. I thrive in agile settings, consistently delivering reliable, well-engineered projects that meet and exceed expectations.
+
+</td>
+<td>
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="200">
+</td>
+</tr>
+</table>
+
+
+## 🚀 Skills
+
+- 🛠️ **Languages:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+- 🎨 **Front-end:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+
+- ⚙️ **Back-end:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![RESTful API](https://img.shields.io/badge/RESTful_API-000000?style=flat&logo=postman&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+- 🗄️ **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+
+- 🛠️ **Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+- 🧪 **Testing:** ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+- 📝 **CMS:** ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![WordPress Themes](https://img.shields.io/badge/WordPress_Themes-21759B?style=flat&logo=wordpress&logoColor=white) ![WordPress Plugins](https://img.shields.io/badge/WordPress_Plugins-21759B?style=flat&logo=wordpress&logoColor=white)
+
+- 🎨 **UI/UX Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white)
+
+## 🛠️ Projects
+
+Check out my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
+
+## 🌱 I’m currently exploring
+
+- Enhancing my skills in **GraphQL** and **TypeScript**.
+- Exploring advanced **Cloud technologies** and **DevOps** practices.
+
+## 💬 Let's Connect
+
+Feel free to reach out to me for collaboration or any exciting opportunities. I'm always open to discussing new projects and ideas.
+
+---
+
+⭐️ From [Yingxin Zhang](https://github.com/Tracy-maker)
