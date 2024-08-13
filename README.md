@@ -41,11 +41,6 @@ With a solid background in JavaScript frameworks, CI/CD pipelines, Test-Driven D
 
 Check out my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
 
-## 🌱 I’m currently exploring
-
-- Enhancing my skills in **GraphQL** and **TypeScript**.
-- Exploring advanced **Cloud technologies** and **DevOps** practices.
-
 ## 💬 Let's Connect
 
 Feel free to reach out to me for collaboration or any exciting opportunities. I'm always open to discussing new projects and ideas.
