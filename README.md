@@ -8,9 +8,7 @@
 <table>
 <tr>
 <td>
-I'm a passionate software developer with a knack for transforming complex requirements into efficient, high-performance web applications. My expertise spans TypeScript (React), AWS, and Node.js, where I focus on developing secure and scalable solutions that thrive in diverse environments.
-With a solid background in JavaScript frameworks, CI/CD pipelines, Test-Driven Development (TDD), and Cloud technologies, I bring a comprehensive approach to both front-end and back-end development. I thrive in agile settings, consistently delivering reliable, well-engineered projects that meet and exceed expectations.
-
+I'm a passionate software developer with a focus on creating secure and scalable SaaS applications. My expertise extends across modern frameworks, CI/CD pipelines, TDD, and cloud technologies, allowing me to deliver robust and high-performance solutions. I thrive in agile environments, where I consistently transform complex requirements into well-engineered, reliable applications that meet and exceed expectations. My adaptable nature ensures that I stay ahead of the curve, continuously expanding my skill set to embrace new technologies and methodologies. Whether working on front-end or back-end development, I bring a comprehensive approach that drives success across diverse projects.
 </td>
 <td>
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="200">
