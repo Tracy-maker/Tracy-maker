@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td>
-I'm a passionate software developer with a focus on creating secure and scalable SaaS applications. My expertise extends across modern frameworks, CI/CD pipelines, TDD, and cloud technologies, allowing me to deliver robust and high-performance solutions. I thrive in agile environments, where I consistently transform complex requirements into well-engineered, reliable applications that meet and exceed expectations. My adaptable nature ensures that I stay ahead of the curve, continuously expanding my skill set to embrace new technologies and methodologies. Whether working on front-end or back-end development, I bring a comprehensive approach that drives success across diverse projects.
+I'm a passionate software developer with a focus on creating secure and scalable SaaS applications, skilled in modern frameworks, CI/CD pipelines, TDD, and cloud technologies, enabling me to deliver robust and high-performance solutions. I thrive in agile environments, consistently transforming complex requirements into reliable applications that meet and exceed expectations. My adaptable nature ensures I stay ahead of the curve, continuously expanding my skill set to embrace new technologies and methodologies. Whether working on front-end or back-end development, I bring a comprehensive approach that drives success across diverse projects.
 </td>
 <td>
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="200">
