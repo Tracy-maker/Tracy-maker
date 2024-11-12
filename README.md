@@ -45,4 +45,5 @@ Feel free to reach out to me for collaboration or any exciting opportunities. I'
 
 ---
 
-⭐️ From [Yingxin Zhang](https://github.com/Tracy-maker)
+⭐️ From [Yingxin Zhang](https://github.com/Tracy-maker). ![Visitor Count](https://komarev.com/ghpvc/?username=Tracy-maker&style=flat-square)
+
