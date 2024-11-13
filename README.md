@@ -1,10 +1,6 @@
 # Hi there, I'm Yingxin Zhang 👋
 
-🔗 [GitHub](https://github.com/Tracy-maker) | 📧 [Email](mailto:ydlvns2020@outlook.com) | 💼 [LinkedIn](https://www.linkedin.com/in/yingxin-zhang-ba1028212/)
-
-## 🛠️ Projects
-
-Explore my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
+🔗 [GitHub](https://github.com/Tracy-maker) | 📧 [Email](mailto:ydlvns2020@outlook.com) | 💼 [LinkedIn](https://www.linkedin.com/in/yingxin-zhang-ba1028212/) | 🛠️ [Portfolio] [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
 
 ## About Me
 
