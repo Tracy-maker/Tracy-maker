@@ -2,6 +2,9 @@
 
 🔗 [GitHub](https://github.com/Tracy-maker) | 📧 [Email](mailto:ydlvns2020@outlook.com) | 💼 [LinkedIn](https://www.linkedin.com/in/yingxin-zhang-ba1028212/)
 
+## 🛠️ Projects
+
+Check out my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
 
 ## About Me
 
@@ -35,15 +38,9 @@ I'm a passionate software developer with a focus on creating secure and scalable
 
 - 🎨 **UI/UX Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white)
 
-## 🛠️ Projects
-
-Check out my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
-
 ## 💬 Let's Connect
 
 Feel free to reach out to me for collaboration or any exciting opportunities. I'm always open to discussing new projects and ideas.
 
 ---
-
-⭐️ From [Yingxin Zhang](https://github.com/Tracy-maker). ![Visitor Count](https://komarev.com/ghpvc/?username=Tracy-maker&style=flat-square)
 
