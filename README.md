@@ -4,7 +4,7 @@
 
 ## 🛠️ Projects
 
-Check out my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
+Explore my project collection: [yix-projects-collection.vercel.app](https://yix-projects-collection.vercel.app/)
 
 ## About Me
 
